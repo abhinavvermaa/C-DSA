@@ -12,6 +12,7 @@ int main()
         for(j=0;j<columns;j++){
             cin>>a[i][j];
         }
+        
     }
     cout<<"enter the value of matrix b - "<<endl;
     for(i=0;i<rows;i++){
